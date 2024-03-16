@@ -1,0 +1,12 @@
+├── data/
+│   └── raw/
+├── models/
+├── notebooks/
+├── src/
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   └── model_evaluation.py
+├── tests/
+├── docs/
+├── requirements.txt
+└── README.md
